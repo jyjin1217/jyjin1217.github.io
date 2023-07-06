@@ -19,7 +19,7 @@ export default function Home() {
             </div>
 
             <div className={styles.center}>
-                <h1>JYJIN's Archive</h1>
+                <h1>JYJIN&apos;s Archive</h1>
             </div>
 
             <div className={styles.grid}>
