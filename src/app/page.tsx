@@ -18,7 +18,7 @@ export default function Home() {
                 </div>
             </div>
 
-            <div className={styles.center}>
+            <div className={styles.center} style={{ textAlign: 'center' }}>
                 <h1>JYJIN&apos;s Archive</h1>
             </div>
 
